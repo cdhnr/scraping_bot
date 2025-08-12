@@ -9,15 +9,17 @@ Raspador que abre cada URL de produto, insere CEPs (lista em `utils/ceps.py`), c
 
 ## Estrutura sugerida de pastas
 ```
+README.md
+LICENSE
 src/
 ├── app.py
+├── README.md
 ├── utils/
 │   ├── ceps.py        # dicionário ceps_gerais = {...}
 │   └── urls.py        # lista urls_produtos = [...]
 ├── raspagem/
 │   └── bd.xlsx  # output
 ├── requirements.txt
-└── README.md
 ```
 
 ---
