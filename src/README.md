@@ -13,8 +13,9 @@
 4. Salva resultados em Excel.
 5. Exibe dados no terminal.
 
-### Demonstração do script em execução
+<p align="center">
+Demonstração do script em execução.
 
 <p align="center">
-  <img src="https://link-para-sua-gif-aqui.gif" alt="scraping_bot em ação" />
+  <img src="https://github.com/user-attachments/assets/d936c5da-e4f1-4bae-b6bb-dbaf2bd5e741" alt="scraping_bot em ação" width="800"/>
 </p>
