@@ -1,5 +1,9 @@
 # Automação de consulta de frete e prazo
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
+
 ## Descrição
 Raspador que abre cada URL de produto, insere CEPs (lista em `utils/ceps.py`), consulta frete/prazo na página e salva tudo em `raspagem/bd.xlsx`. Usa Playwright (API síncrona) para automação do navegador e pandas + openpyxl para exportar Excel.
 
